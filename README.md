@@ -98,7 +98,7 @@ yes
 
     Certificate was added to keystore
 ```
-网页解决方案
+访问ssl报错，解决方案 
 https://blog.csdn.net/Tomcat_Lu/article/details/128199725
 ```
 2023-07-18 10:04:57 [com.alibaba.nacos.client.Worker.longPolling.fixed-portal.windmagics.com-48b1c6c4-018e-4fa3-8c9e-20d163a013fe] ERROR c.a.n.c.c.i.ClientWorker - longPolling error : 
