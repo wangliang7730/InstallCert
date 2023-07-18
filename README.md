@@ -93,6 +93,11 @@ sudo keytool -importcert -alias woot.com -cacerts -storepass changeit -file woot
   
     Trust this certificate? [no]:
 
+
+yes
+
+    Certificate was added to keystore
+```
 网页解决方案
 https://blog.csdn.net/Tomcat_Lu/article/details/128199725
 ```
@@ -150,8 +155,4 @@ Caused by: sun.security.provider.certpath.SunCertPathBuilderException: unable to
 	at java.base/sun.security.validator.PKIXValidator.doBuild(PKIXValidator.java:434)
 	... 37 common frames omitted
 
-```
-yes
-
-    Certificate was added to keystore
 ```
